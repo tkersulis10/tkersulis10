@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-Welcome to my profile! I am an aspriring data analyst and machine learning engineer. Below you can find some of the projects that I have created:
+Welcome to my profile! I am an aspriring data analyst and machine learning engineer. I am an undergraduate student at Cornell University pursuing a B.S. in Computer Science with minors in Business and Operations Research and Information Engineering.
+
+Below you can find some of the projects that I have created:
+
+- Fantasy-Football-ML-Simulation: Simulating and modeling fantasy football drafts and predicting future production using a neural network
+- Prop-Betting-Machine-Learning-Project: Using machine learning to predict and analyze NBA prop bets
+- Interactive-SQL-Database-Using-OCaml: Creating a database in OCaml that takes in SQL commands from a self-created CLI
+- Deep-Learning-Handwritten-Digits-Testing: Testing different hyperparameter choices in a convolutional neural network to predict handwritten digits
 
 <!--
 **tkersulis10/tkersulis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
