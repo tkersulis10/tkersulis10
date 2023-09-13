@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my profile! I am an aspriring data analyst and machine learning engineer. Below you can find some of the projects that I have created:
+
 <!--
 **tkersulis10/tkersulis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
