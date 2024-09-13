@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile! I am an aspriring data analyst and machine learning engineer. I am an undergraduate student at Cornell University pursuing a B.S. in Computer Science with minors in Business and Operations Research and Information Engineering.
+Welcome to my profile! I am an aspriring data analyst and machine learning engineer. I am a graduate student at Virginia Tech pursuing a MEng in Computer Science. I previously graduated from Cornell University with a B.S. in Computer Science with minors in Business and in Operations Research.
 
 Below you can find some of the projects that I have created:
 
